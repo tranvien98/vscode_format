@@ -31,4 +31,8 @@
     },
     "html.format.wrapLineLength": 120,
     "html.format.wrapAttributes": "auto",
+    
+     "python.analysis.diagnosticSeverityOverrides": {
+      "reportMissingImports": "none"
+    }
 }
